@@ -1,6 +1,21 @@
 # Prerequisites
 *.d
 
+# visual studio specific files
+*.user
+*.ncb
+*.sbr
+*.suo
+*.ilk
+*.bsc
+*.pdb
+*.aps
+*.pch
+*.sdf
+*.opensdf
+*.sln.docstates
+ipch/
+
 # Compiled Object files
 *.slo
 *.lo
