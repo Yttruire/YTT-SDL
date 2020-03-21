@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
 
+**Dependencies
+
 # visual studio specific files
 *.user
 *.ncb
